@@ -1,2 +1,2 @@
 # Oath2Client_CppRestSDK
-Oath2Clinet implementation with CPP Rest SDK
+Oath2Clinet implementation with C++ Rest SDK
